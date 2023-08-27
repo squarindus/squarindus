@@ -3,7 +3,7 @@ As a student venturing into this electrifying realm, you step into a world where
 Beyond the classroom, CTF challenges beckon, invited me to decipher intricate riddles, exploit vulnerabilities, and pit my wits against some of the most perplexing digital enigmas.
 am thankful to express my gratitude to the team members in Bi0s
 
- ______________________________________________CHALLENGES AND STEPS WHICH I FOLLOWED TO SOLVE______________________________________________________________________
+ ______________________________________________CHALLENGES AND STEPS WHICH I FOLLOWED TO SOLVE_____________________________________________________________________
 
 <>EMBEDDED CHALLENGES..[OFFLINE HARDWARE]
 -->Ain't no sunshine
