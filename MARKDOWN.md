@@ -1,7 +1,7 @@
 __Embarking on a journey into the heart of cybersecurity, participating in Capture The Flag (CTF) challenges offerd me an opportunity like no other.
 As a student venturing into this electrifying realm, you step into a world where coding prowess, puzzle-solving finesse, and an insatiable curiosity are my greatest assets.
 Beyond the classroom, CTF challenges beckon, invited me to decipher intricate riddles, exploit vulnerabilities, and pit my wits against some of the most perplexing digital enigmas.
-am thankful to express my gratitude to the team members in Bi0s__
+am thankful to express my gratitude to the team members in Bi0s.__
 
  ## **CHALLENGES AND STEPS WHICH I FOLLOWED TO SOLVE**
  
