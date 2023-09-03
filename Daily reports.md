@@ -6,11 +6,18 @@
   * Hours spend:3hrs
 > ## REPORT [02-09-23]
   * Daily work
-     1. Completed the write up's
-     2. Learned some basics of c programming
-     3. Tried to install Ubuntu in PC
+    1. Completed the write up's
+    2. Learned some basics of c programming
+    3. Tried to install Ubuntu in PC
   * Hours spend:2hrs
 > ## REPORT [03-09-23]
 * Daily work
-  ### UPDATING SOON......
+  1. Ubuntu installation accomplished. (as a beginner OS installation is a good experience)
+  2. Decided to keep a notebook to write Linux commands.
+  3. Solving bandit challenges.
+ * Hours spend:7hrs
+> ## REPORT [04-09-23]
+* Daily work
+  ## UPDATION INITIALIZED...... 🔁
+  
   
