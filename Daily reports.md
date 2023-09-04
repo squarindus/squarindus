@@ -18,6 +18,12 @@
  * Hours spend:7hrs
 > ## REPORT [04-09-23]
 * Daily work
+  1. Solving bandit challenges.
+  2. Just installed Termux in mobile to practice in free time at college.
+  3. Started reading bios wiki
+ * Hours spend: 1:45hrs
+> ## REPORT [05-09-23]
+* Daily work
   ## UPDATION INITIALIZED...... 🔁
   
   
