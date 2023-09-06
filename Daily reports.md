@@ -24,6 +24,17 @@
  * Hours spend: 1:45hrs
 > ## REPORT [05-09-23]
 * Daily work
+  1. Solving bandit challenges.
+  2. Practised Termux
+ * Hours spent:2hrs
+> ## REPORT [06-09-23]
+* Daily work
+  1. Learned how to use tinkercad
+  2. Solving bandit challenges.
+ * Hours spent:2hrs
+> ## REPORT [07-09-23]
+* Daily work
+  
   ## UPDATION INITIALIZED...... 🔁
   
   
