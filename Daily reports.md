@@ -34,6 +34,24 @@
  * Hours spent:2hrs
 > ## REPORT [07-09-23]
 * Daily work
+  1. Refering embedded systems.
+  2. Doing bandit challenges.
+ * Hours spent:2:30hrs
+> ## REPORT [08-09-23]
+* Daily work
+  1. Solving bandit chalenges
+  2. Doing tasks in tinkercad.
+ * Hours spent: 2hrs
+> ## REPORT [09-09-23]
+* Daily work
+  1. Solved bandit challenges upto level 15.
+  2. Doing ome arduino projects in tinkercad.
+  3. Instead of ubuntu installed kali linux in order to access more tools.
+ * Hours spent:6hrs
+   > ## REPORT [10-09-23]
+* Daily work
+  ## UPDATION INITIALIZED...🔁
+
   
   ## UPDATION INITIALIZED...... 🔁
   
