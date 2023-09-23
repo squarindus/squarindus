@@ -102,6 +102,20 @@
  *Hours:2hours
 > ## REPORT [21-09-23]
 * Daily work
+  1. Reading Car hacking handbook
+  2. Learning Arduino C
+ > ## REPORT [22-09-23]
+* Daily work
+  1. Compleated write-ups upto bandit23
+  2. Reading carhacking hand book
+> ## REPORT [23-09-23]
+* Daily work
+  1. Created a Portfolio
+  2. Finished Irish name repo
+  3. Finishing writeups
+ > ## REPORT [24-09-23]
+* Daily work
+ 
   ## UPDATING SOON 🔁
 
   
