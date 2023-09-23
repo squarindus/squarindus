@@ -180,6 +180,48 @@
     * echo I am user $myname | md5sum | cut -d ' ' -f 1+
     * cat /tmp/8ca319486bfbbc3663ea0fbe81326349
   * password:QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
+  > LEVEL 22 TO LEVEL 23
+ * A program is running automatically at regular intervals from cron, the time-based job scheduler. Look in /etc/cron.d/ for the configuration and 
+   see what command is being executed.
+ * The line to create the filename inputs the string “I am user bandit23” into md5sum, which will return the md5 hash from the string. The last 
+   instruction removes everything after the space. You can test out for yourself what it would look like without this line.
+ * Syntaxes:
+    * ls /etc/cron.d/
+    * cat cronjob_bandit23
+    * /usr/bin/cronjob_bandit23.sh
+    * echo I am user $myname | md5sum | cut -d ' ' -f 1
+    * at /tmp/8ca319486bfbbc3663ea0fbe81326349
+ * password:QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
+  > LEVEL 23 TO LEVEL 24
+ * A program is running automatically at regular intervals from cron, the time-based job scheduler. Look in /etc/cron.d/ for the configuration and 
+   see what command is being executed.
+ * Syntaxes
+    * touch /tmp/getpswd.sh
+    * vim /tmp/getpswd.sh
+    * chmod 777 /tmp/getpswd.sh
+    * touch /tmp/s8n.txt
+    * chmod 666 /tmp/s8n.txt
+    * cp /tmp/getpswd.sh /var/spool/bandit24/foo
+    * cat /tmp/s8n.txt
+ * password: VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
+  > LEVEL 24 TO LEVEL 25
+ * A daemon is listening on port 30002 and will give you the password for bandit25 if given the password for bandit24 and a secret numeric 4-digit 
+   pincode. There is no way to retrieve the pincode except by going through all of the 10000 combinations, called brute-forcing.
+   You do not need to create new connections each time.
+ * Syntaxes
+    * vim brute_force.sh
+    * You need to brute force the bash file to the shell.
+    * chmod +x brute_force.sh
+    * ./brute_force.sh
+    * ls
+    * sort result.txt | grep -v "Wrong!"
+ * password:p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d
+  > LEVEL 25 TO LEVEL 26
+ * 
+ 
+
+
+
     
 
 
