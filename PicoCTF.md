@@ -27,3 +27,9 @@
  * Flag :picoCTF{m0R3_SQL_plz_c34df170}
 > Repo 3
  * By using linux interface i got the flag
+# Java Code Analysis!?!
+ * Download the attachment and read the java file and get the secret code.
+ * After log into the web site inspect it go to local storage and copy the json token and use an online json decoder in order to change the user preferences to admin ,username as Admin and email as admin ,user=2
+ * Paste it to the token in local storage change the credintials in the dictonary.
+ * Reload
+ * Flag:picoCTF{w34k_jwt_n0t_g00d_6e5d7df5}
