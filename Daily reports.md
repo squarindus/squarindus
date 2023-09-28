@@ -113,22 +113,8 @@
   1. Created a Portfolio
   2. Finished Irish name repo
   3. Finishing writeups
- > ## REPORT [24-09-23]
-* Daily work
  
-  ## UPDATING SOON 🔁
-
-  
-  
-  
-
-
-
-  
-  
-  
-
-  
+     
   ## UPDATION INITIALIZED...... 🔁
   
   
